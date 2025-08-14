@@ -14,7 +14,7 @@ dataset_paths:
   # [Script: 1a] The absolute path to the ros2bag folder that needs to be extracted.
   # This is the primary source of all image data for the entire pipeline.
   # USER ACTION REQUIRED: This path must be updated to your local environment.
-  ros2bag_directory: '/home/kdh/Desktop/rosbags/kookmin/8월 11일/mission1'
+  ros2bag_directory: '/home/your_name/Desktop/rosbags/your_bag_file'
 
   # [Script: 1a] Default directory where raw images will be saved after extraction from the ros2bag.
   extracted_images_dir: 'datasets/phase1_extracted'
